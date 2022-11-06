@@ -4,7 +4,6 @@ permalink: /Publications/
 limit: 12
 show_excerpts: true
 ---
-### Journal Publications
 [1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. (_conditionally accepted_)  [[link]](https://arxiv.org/pdf/2109.13976.pdf) \\
 [2] H. Jung, **AR. Pedram**, T. Cuvelier, T. Tanaka, “Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks”, **International Journal of Robust and Nonlinear Control**, 2022.
 [[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076)
