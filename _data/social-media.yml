@@ -1,0 +1,23 @@
+scholar:
+  id: 'citations?hl=en&user=OIFfnsEAAAAJ'
+  href: 'https://scholar.google.com/'
+  title: 'Scholar'
+  fa-icon: 'ai ai-google-scholar-square ai-2x'
+
+linkedin:
+  id: 'in/alireza-pedram-b737569a'
+  href: 'https://linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fab fa-linkedin fa-2x'
+
+github:
+  id: 'AlirezaPedram'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square fa-2x'
+
+email:
+  id: 'apedram@utexas.edu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa fa-envelope-square fa-2x'
