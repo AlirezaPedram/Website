@@ -2,6 +2,7 @@
 layout: page
 permalink: /Publications/
 ---
+\* indicates equal contribution.
 
 ### Journal Publications
 [1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. (_conditionally accepted_)  [[link]](https://arxiv.org/pdf/2109.13976.pdf) \\
@@ -18,7 +19,7 @@ Buoyant Magnetic Microrobots via Constrained LQR Approach”, **Journal of Micro
 ### Conference Publications
 [1] **AR. Pedram**, T. Tanaka, “A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space”, **American Control Conference**, 2023. (_submitted_)\\
 [2] **AR. Pedram**, R. Funada, T. Tanaka, “Dynamic Allocation of Visual Attention for Vision-based Autonomous Navigation under Data Rate Constraints”, **IEEE Conference on Decision and Control**, 2021. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9683570)\\
-[3] **AR. Pedram**, J. Stefan, R. Funada, T. Tanaka, “Rationally Inattentive Path-Planning via RRT\*”, **American Control Conference** , 2021. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483305) \\
+[3] **AR. Pedram\***, J. Stefan\*, R. Funada, T. Tanaka, “Rationally Inattentive Path-Planning via RRT\*”, **American Control Conference** , 2021. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483305) \\
 [4] **AR. Pedram**, T. Tanaka, “Online Parameter Identification of Linear Dynamical Systems through the Lens of Feedback Channel Coding Theory”, **American Control Conference**, 2020. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147986)\\
 [5] **AR. Pedram**, T. Tanaka, “Linearly-Solvable Mean-Field Approximation for Multi-Team Road Traffic Games”, **IEEE Conference on Decision and Control**, 2019. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9029579)\\
 [6] **AR. Pedram**, T. Tanaka, M. Hale, “Bidirectional Information Flow and the Roles of Privacy Masks in Cloud-Based Control”, **IEEE Information Theory Workshop**, 2019. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8989371)\\
