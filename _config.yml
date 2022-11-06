@@ -17,6 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: ""
@@ -55,7 +56,7 @@ liquid:
 
 
 # Build settings
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple
 permalink: /:categories/:title/
 markdown: kramdown
 feed:
