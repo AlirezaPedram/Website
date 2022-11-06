@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /Publications/
-limit: 12
-show_excerpts: true
 ---
 
 ### Journal Publications
