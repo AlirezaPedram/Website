@@ -59,7 +59,7 @@ theory to this problem and showed that the backward Hamilton-Jacobi-Bellman and 
 obtained through a linearly-solvable set of equations, and it is strongly time-consistent.  We extent the results for multi-team settings. 
 </p>
 <p align="center">
-<img src="game.png" width="600" />
+<img src="../game.png" width="600" />
 </p>
 <p align="center">
 Optimal density propagation of team one (red) and team two (blue) in a sample environment.
