@@ -8,7 +8,6 @@ permalink: /Research/
 in uncertain, complex environment safely with minimum  perception effort.
 The following are some of the projects on which I have been working during the past few years.</p>
 
-
 ***
 <center> <h3>Rationally Inattentive Vision and Planning </h3> </center>
 <p align = "justify">
