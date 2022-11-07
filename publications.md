@@ -7,7 +7,7 @@ permalink: /Publications/
 ### Journal Publications
 [1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. (_conditionally accepted_)  [[link]](https://arxiv.org/pdf/2109.13976.pdf) \\
 [2] H. Jung, **AR. Pedram**, T. Cuvelier, T. Tanaka, “Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks”, **International Journal of Robust and Nonlinear Control**, 2022.
-[[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076)
+[[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076)\\
 [3] T. Tanaka, E. Nekouei, **AR. Pedram**, KH. Johansson, “Linearly Solvable Mean-Field Traffic Routing
 Games”, **IEEE Transactions on Automatic Control**, 2020. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9061051)\\
 [4] **AR. Pedram**, H. Nejat Pishkenari, M. Sitti, “Optimal Controller Design for 3D Manipulation of
