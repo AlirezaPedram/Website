@@ -22,7 +22,7 @@ relevant to the task at the hand, while negelcting the rest of available data. I
 that can be executed with both minimum control and percecption efforts. We modify existing motion-planning algorithms (like sampling-based methods) to be able to integrate the percecption effort.    
 </p>
 <p align="center">
-<img src="Capture.PNG" width="800" />
+<img src="capture.png" width="800" />
 </p>
 <p align="center">
 Optimal path plans obtained for different values of perception effort intensity &alpha;.
@@ -59,7 +59,7 @@ theory to this problem and showed that the backward Hamilton-Jacobi-Bellman and 
 obtained through a linearly-solvable set of equations, and it is strongly time-consistent.  We extent the results for multi-team settings. 
 </p>
 <p align="center">
-<img src="Game.PNG" width="600" />
+<img src="game.png" width="600" />
 </p>
 <p align="center">
 Optimal density propagation of team one (red) and team two (blue) in a sample environment.
