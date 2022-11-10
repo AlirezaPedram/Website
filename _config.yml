@@ -65,11 +65,17 @@ feed:
 # Search
 search_full_content: false # can have performance implications for large sites
 
+
+google_search_console:
+  verification_file_code: 4150f0c4ea6ee7f0
+
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-google_search_console_verification_file
 
 
 
