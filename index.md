@@ -3,7 +3,8 @@ layout: page
 limit: 12
 show_excerpts: true
 ---
-<!-- Google tag (gtag.js) -->
+<left> <h1>Alireza Pedram
+  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J94ZCQBRK9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,9 +12,7 @@ show_excerpts: true
   gtag('js', new Date());
 
   gtag('config', 'G-J94ZCQBRK9');
-</script>
-
-<left> <h1>Alireza Pedram</h1> </left>
+</script></h1> </left>
 <p align="justify">
 <img style="float: left; margin: 0px 12px 0px 0px;" src="Alireza_Pedram_2.jpg" width="120" />
 I am a Ph.D. candidate in the Walker Department of Mechanical Engineering at the University of Texas at Austin.
