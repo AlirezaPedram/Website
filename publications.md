@@ -5,14 +5,16 @@ permalink: /Publications/
 \* indicates equal contribution.
 
 ### Journal Publications
-[1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. (_to appear_)  [[link]](https://arxiv.org/pdf/2109.13976.pdf) \\
-[2] H. Jung, **AR. Pedram**, T. Cuvelier, T. Tanaka, “Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks”, **International Journal of Robust and Nonlinear Control**, 2022.
+[1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001826)) \\
+[2] A. Govindarajan, A. Kiaghadi, **AR. Pedram**, H. Rifai, “Source Apportionment of Polychlorinated
+Dibenzo-P-Dioxins and Dibenzofurans in the Sediments of an Urban Estuary”, **Environmental Monitoring and Assessment**. [[link]] (https://link.springer.com/article/10.1007/s10661-022-10878-z) \\
+[3] H. Jung, **AR. Pedram**, T. Cuvelier, T. Tanaka, “Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks”, **International Journal of Robust and Nonlinear Control**, 2022.
 [[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076)\\
-[3] T. Tanaka, E. Nekouei, **AR. Pedram**, KH. Johansson, “Linearly Solvable Mean-Field Traffic Routing
+[4] T. Tanaka, E. Nekouei, **AR. Pedram**, KH. Johansson, “Linearly Solvable Mean-Field Traffic Routing
 Games”, **IEEE Transactions on Automatic Control**, 2020. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9061051)\\
-[4] **AR. Pedram**, H. Nejat Pishkenari, M. Sitti, “Optimal Controller Design for 3D Manipulation of
+[5] **AR. Pedram**, H. Nejat Pishkenari, M. Sitti, “Optimal Controller Design for 3D Manipulation of
 Buoyant Magnetic Microrobots via Constrained LQR Approach”, **Journal of Micro-Bio Robotics**, 2019. [[link]](https://link.springer.com/content/pdf/10.1007/s12213-019-00121-3.pdf)\\
-[5] **AR. Pedram**, H. Nejat Pishkenari, “Smart Micro/Nano-robotic Systems for Gene Delivery”, **Current Gene Therapy**, 2017. 
+[6] **AR. Pedram**, H. Nejat Pishkenari, “Smart Micro/Nano-robotic Systems for Gene Delivery”, **Current Gene Therapy**, 2017. 
 [[link]](https://www.researchgate.net/profile/Ali-Reza-Pedram/publication/316896127_Smart_MicroNano-robotic_Systems_for_Gene_Delivery/links/5d950061458515c1d38ed53f/Smart-Micro-Nano-robotic-Systems-for-Gene-Delivery.pdf) 
 {: style="text-align: justify"}
 
