@@ -5,9 +5,9 @@ permalink: /Publications/
 \* indicates equal contribution.
 
 ### Journal Publications
-[1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001826)) \\
-[2] A. Govindarajan, A. Kiaghadi, **AR. Pedram**, H. Rifai, “Source Apportionment of Polychlorinated
-Dibenzo-P-Dioxins and Dibenzofurans in the Sediments of an Urban Estuary”, **Environmental Monitoring and Assessment**. [[link]] (https://link.springer.com/article/10.1007/s10661-022-10878-z) \\
+[1] **AR. Pedram**, R. Funada, T. Tanaka, “Gaussian Belief Space Path Planning for Minimum Sensing Navigation”, **IEEE Transactions on Robotics**. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001826) \\
+[2] A. Govindarajan, A. Kiaghadi, H. Rifai, **AR. Pedram**,  “Source Apportionment of Polychlorinated
+Dibenzo-P-Dioxins and Dibenzofurans in the Sediments of an Urban Estuary”, **Environmental Monitoring and Assessment**. [[link]](https://link.springer.com/article/10.1007/s10661-022-10878-z) \\
 [3] H. Jung, **AR. Pedram**, T. Cuvelier, T. Tanaka, “Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks”, **International Journal of Robust and Nonlinear Control**, 2022.
 [[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076)\\
 [4] T. Tanaka, E. Nekouei, **AR. Pedram**, KH. Johansson, “Linearly Solvable Mean-Field Traffic Routing
