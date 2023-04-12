@@ -40,7 +40,7 @@ date-base setting.
 and Computing, 2018 <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8636014 '>[Link]</a>\\
 <b> Bidirectional Information Flow and the Roles of Privacy Masks in Cloud-Based Control </b>, AR. Pedram, T. Tanaka, M. Hale, IEEE Information Theory Workshop, 2019 <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8989371)\\'>[Link]</a>
 <b>Online Parameter Identification of Linear Dynamical Systems through the Lens of Feedback Channel Coding Theory</b>, AR. Pedram, T. Tanaka,  American Control Conference, 2020  <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147986)\\'>[Link]</a>\\
-<b>Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks</b>, H. Jung, AR. Pedram,  T. Cuvelier, T. Tanaka,  International Journal of Robust and Nonlinear Control, 2023  <a href='https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076'>[Link]</a>\\
+<b>Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks</b>, H. Jung, AR. Pedram,  T. Cuvelier, T. Tanaka,  International Journal of Robust and Nonlinear Control, 2023  <a href='https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076'>[Link]</a>
 {: style="text-align: justify"}
 ***
 
