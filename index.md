@@ -29,5 +29,7 @@ Some applications of my research include enabling online decision-making and agi
 <p align = "justify">
 <p align="center">
 y research aims to build <b>socially intelligent autonomous systems</b> that co-exist, cooperate, and compete with other agents, as well as with humans.
- {% include social-media-links.html %} 
 -->
+<p align="center">
+ {% include social-media-links.html %} 
+</p>
