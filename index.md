@@ -23,11 +23,7 @@ I aim to develop <b>frameworks helping autonomous agents strategically analyze/c
 In doing so, I employ different tools from diverse fields, such as motion planning, stochastic optimal control theory, information theory, and optimization. To demonstrate the utility of  proposed frameworks, I also test and evaluate the performance of the designed 
 systems through numerical simulations and hardware experiments. 
 Some applications of my research include enabling online decision-making and agile maneuvering in mobile robotics (like micro-aerial vehicles) and mitigating communication load in large-scale networks such as fleets of autonomous vehicles.</p>
-<p>
-<!--
-<img src="Alireza_Pedram.jpg" width="50"/>
-<p align = "justify">
--->
+
 <p align="center">
  {% include social-media-links.html %} 
 </p>
