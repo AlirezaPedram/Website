@@ -3,7 +3,6 @@ layout: home
 limit: 12
 show_excerpts: true
 ---
-{% include head.html %}
 <left> <h1>Alireza Pedram
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J94ZCQBRK9"></script>
