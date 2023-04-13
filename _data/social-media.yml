@@ -2,7 +2,7 @@ scholar:
   id: 'citations?hl=en&user=OIFfnsEAAAAJ'
   href: 'https://scholar.google.com/'
   title: 'Scholar'
-  fa-icon: 'fa fa-graduation-cap fa-2x'
+  fa-icon: 'ai ai-google-scholar-square ai-2x'
 
 linkedin:
   id: 'in/alireza-pedram-b737569a'
