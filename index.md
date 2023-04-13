@@ -3,6 +3,10 @@ layout: home
 limit: 12
 show_excerpts: true
 ---
+
+<p align="center">
+ {% include social-media-links.html %} 
+</p>
 <left> <h1>Alireza Pedram
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J94ZCQBRK9"></script>
