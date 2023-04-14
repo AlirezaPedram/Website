@@ -25,5 +25,9 @@ systems through numerical simulations and hardware experiments.
 Some applications of my research include enabling online decision-making and agile maneuvering in mobile robotics (like micro-aerial vehicles) and mitigating communication load in large-scale networks such as fleets of autonomous vehicles.</p>
 
 <p align="center">
+<i class="ai ai-google-scholar-square ai-3x"></i>
+</p>
+
+<p align="center">
  {% include social-media-links.html %} 
 </p>
