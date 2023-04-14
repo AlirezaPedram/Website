@@ -1,11 +1,10 @@
 {% if site.data.social-media %}
-{% include head.html %}
 <div align="center" id="social-media">
     {% assign sm = site.data.social-media %}
     {% for entry in sm %}
         {% assign key = entry | first %}
         {% if sm[key].title == 'Scholar' %}
-            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"> <i class="ai ai-google-scholar-square ai-3x"></i>   </a>
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="{{ sm[key].fa-icon }}"></i>   </a>
         {% else %}
         <a style="padding-left:20px;" href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="{{ sm[key].fa-icon }}"></i>   </a>
         {% endif %}
