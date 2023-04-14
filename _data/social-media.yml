@@ -1,14 +1,16 @@
+
+scholar:
+  id: 'citations?hl=en&user=OIFfnsEAAAAJ'
+  href: 'https://scholar.google.com/'
+  title: 'Scholar'
+  fa-icon: 'fa fa-graduation-cap-square fa-2x'
+
 linkedin:
   id: 'in/alireza-pedram-b737569a'
   href: 'https://linkedin.com/'
   title: 'LinkedIn'
   fa-icon: 'fab fa-linkedin fa-2x'
 
-scholar:
-  id: 'citations?hl=en&user=OIFfnsEAAAAJ'
-  href: 'https://scholar.google.com/'
-  title: 'Scholar'
-  fa-icon: 'ai ai-google-scholar-square ai-2x'
 
 github:
   id: 'AlirezaPedram'
