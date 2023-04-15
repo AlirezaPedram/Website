@@ -5,7 +5,7 @@ permalink: /Research/Capacity
 <center> <h3> Feedback Capacity of Gaussian Channels with Memory: Implications in Autonomy </h3> </center>
 <p align = "justify">
 In this research, we study the information-theoretic problem of computing the capacity of  Gaussian channels with partial feedback whose dynamics are expressed as a linear state-space system, where we seek the maximum number of bits that could be communicated reliably with bounded input power. We show this problem appears in different contexts of autonomy, like in the identification of linear dynamic systems and in the privacy of linear dynamic systems in the cloud-based control setting. In this project, I establish several theoretical results. For instance,  I show the identification rate of linear dynamic systems is fundamentally upper bounded by a linear function of the identification step, and no policy can achieve a super-linear convergence rate.  I  illustrate the privacy of dynamical systems in cloud-based settings is not necessarily a monotone function of the noise levels of privacy masks. I also show both input and out masks are required, as opposed to static
-date-base setting.  
+date-base setting. 
 </p>
 <span style="line-height: 0;">_Related Publications:_</span>\\
 <b>Optimized Data Rate Allocation for Dynamic Sensor Fusion over Resource Constrained Communication Networks</b>, H. Jung, AR. Pedram,  T. Cuvelier, T. Tanaka,  International Journal of Robust and Nonlinear Control, 2023  <a href='https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6076'>[Link]</a>\\
