@@ -18,6 +18,9 @@ In the first phase of this project, we propose a task-dependent attention alloca
 Optimal path plans obtained for different values of perception effort intensity &alpha;.
 </p>
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+
 <span style="line-height: 0;">_Related Publications:_</span>\\
 <b> A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space</b> AR. Pedram , T. Tanaka, American Control Conference, 2023 <a href='https://arxiv.org/pdf/2303.07326.pdf'>[Link]</a>\\
 <b> Gaussian Belief Space Path Planning for Minimum Sensing Navigation</b>,  AR. Pedram , R. Funada, T. Tanaka, IEEE Transactions on Robotics, 2022  <a href = 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001826&tag=1'>[Link]</a>\\
