@@ -3,6 +3,7 @@ layout: page
 permalink: /Research/
 ---
 <p align = "justify"> <b>Doctorial Dissertation:</b> My research focuses on developing theoretical foundations and computational methods that enable autonomous systems to operate safely in uncertain, complex environments with minimum perception effort. The following are some of the projects I have been working on for the past few years.</p>
+[Link to a post]({% link research_RI.md %})
 <p align = "justify"> <b> Master Dissertation:</b> Add master research here.</p>
 <p align = "justify"> <b> Other Projects:</b> Add other porjects here.</p>
 
