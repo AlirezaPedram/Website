@@ -24,6 +24,7 @@ Optimal path plans obtained for different values of perception effort intensity 
 </p>
 
 <span style="line-height: 0;">_Related Publications:_</span>\\
+<b> A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space</b> AR. Pedram , T. Tanaka, American Control Conference, 2023 <a href='https://arxiv.org/pdf/2303.07326.pdf'>[Link]</a>\\
 <b> Gaussian Belief Space Path Planning for Minimum Sensing Navigation</b>,  AR. Pedram , R. Funada, T. Tanaka, IEEE Transactions on Robotics, 2022  <a href = 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001826&tag=1'>[Link]</a>\\
 <b>Dynamic Allocation of Visual Attention for Vision-based Autonomous Navigation under Data Rate Constraints</b>, AR. Pedram, R. Funada, T. Tanaka, IEEE Conference on Decision and Control, 2021 <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9683570)\\'>[Link]</a>\\
 <b>Rationally Inattentive Path-Planning via RRT*</b>, AR. Pedram, J. Stefan, R. Funada, T. Tanaka, American Control Conference, 2021 <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483305'>[Link]</a>
