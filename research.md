@@ -2,9 +2,7 @@
 layout: page
 permalink: /Research/
 ---
-
-
-<p align = "justify"> My research focuses on developing theoretical foundations and computational methods that enable autonomous systems to operate safely in uncertain, complex environments with minimum perception effort. The following are some of the projects I have been working on for the past few years.</p>
+**Doctorial Dissertation:** <p align = "justify"> My research focuses on developing theoretical foundations and computational methods that enable autonomous systems to operate safely in uncertain, complex environments with minimum perception effort. The following are some of the projects I have been working on for the past few years.</p>
 
 ***
 <center> <h3>Rationally Inattentive Vision and Planning </h3> </center>
