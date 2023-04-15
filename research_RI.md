@@ -18,7 +18,12 @@ In the first phase of this project, we propose a task-dependent attention alloca
 Optimal path plans obtained for different values of perception effort intensity &alpha;.
 </p>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<!-- wp:embed {"url":"https://youtu.be/5MHLmFykZ9I","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/5MHLmFykZ9I
+</div><figcaption class="wp-element-caption">The instruction video</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
 
 
 <span style="line-height: 0;">_Related Publications:_</span>\\
